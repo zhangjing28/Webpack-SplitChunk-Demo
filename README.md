@@ -174,5 +174,5 @@ page1.2d1b6667.chunk.js (228 B)
 
 #### reference
 
-https://medium.com/dailyjs/webpack-4-splitchunks-plugin-d9fbbe091fd0
+https://medium.com/dailyjs/webpack-4-splitchunks-plugin-d9fbbe091fd0  
 https://github.com/kwzm/webpack-splitChunks-demo
