@@ -5,6 +5,7 @@
   "main": "./src/index.js",
   "scripts": {
     "default": "webpack --config ./config/webpack.config.common.js",
+    "chunks": "webpack --config ./config/webpack.config.chunks.js",
     "chunks-async": "webpack --config ./config/webpack.config.chunks-async.js",
     "chunks-initial": "webpack --config ./config/webpack.config.chunks-initial.js",
     "chunks-all": "webpack --config ./config/webpack.config.chunks-all.js"
